@@ -18,7 +18,8 @@ function HomeScreen() {
     "https://strawpoll.com/XOgOVaK0Gn3",
     "https://strawpoll.com/PKgle6Wl4Zp",
     "https://strawpoll.com/xVg71RqrOyr",
-    "https://strawpoll.com/e2naXNKOVyB"
+    "https://strawpoll.com/e2naXNKOVyB",
+    "https://strawpoll.com/jVyG2pKaYZ7",
 
 
   ];
@@ -41,7 +42,8 @@ function HomeScreen() {
     "Take home to mama/ papa (male)",
     "Most Handsome",
     "Most Influential Male",
-    "Rich Uncle"
+    "Rich Uncle",
+    "Fashion Designer of the year",
   ];
 
   const handleInputClick = (link) => {
