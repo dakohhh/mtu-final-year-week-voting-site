@@ -20,6 +20,7 @@ function HomeScreen() {
     "https://strawpoll.com/e2naXNKOVyB",
     "https://strawpoll.com/jVyG2pKaYZ7",
     "https://strawpoll.com/3RnYXwKWAye",
+    "https://strawpoll.com/X3nkP9zAKgE",
 
 
   ];
@@ -44,6 +45,7 @@ function HomeScreen() {
     "Rich Uncle",
     "Fashion Designer of the year",
     "Most Fashionable Female",
+    "Best sports lady"
   ];
 
   const handleInputClick = (link) => {
