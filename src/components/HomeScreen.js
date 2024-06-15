@@ -3,7 +3,6 @@ import React from "react";
 function HomeScreen() {
   const links = [
     "https://strawpoll.com/eNg6v6qbegA",
-    "https://strawpoll.com/xVg71Rq1pyr",
     "https://strawpoll.com/e7ZJaxKaGg3",
     "https://strawpoll.com/7MZ0k8qAwgo",
     "https://strawpoll.com/eJnvVxQ74nv",
@@ -27,7 +26,6 @@ function HomeScreen() {
 
   const titles = [
     "Most Endowed",
-    "Most influential female",
     "Most Fashionable Male",
     "Best Behaved Male",
     "Miss Ebony",
