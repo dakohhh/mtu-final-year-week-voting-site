@@ -21,6 +21,8 @@ function HomeScreen() {
     "https://strawpoll.com/jVyG2pKaYZ7",
     "https://strawpoll.com/3RnYXwKWAye",
     "https://strawpoll.com/X3nkP9zAKgE",
+    "https://strawpoll.com/3RnYXwPGmye",
+    "https://strawpoll.com/6QnMQmYePne",
 
 
   ];
@@ -45,7 +47,9 @@ function HomeScreen() {
     "Rich Uncle",
     "Fashion Designer of the year",
     "Most Fashionable Female",
-    "Best sports lady"
+    "Best sports lady",
+    "Most Influential Female",
+    "Best Female Friend Group Of The Year ( Female )"
   ];
 
   const handleInputClick = (link) => {
